@@ -637,6 +637,16 @@
         "kaga-kaini-go": [
             "kaga-kaini",
             "kaga1"
+        ],
+        "akigumo-kaini": [
+            "akigumo1"
+        ],
+        "danyang": [
+            "yukikaze1"
+        ],
+        "yukikaze-kaini": [
+            "danyang",
+            "yukikaze1"
         ]
     },
     "mstId2FleetIdTable": {
@@ -1240,6 +1250,9 @@
         "639": "jingei-kai",
         "641": "matsu",
         "646": "kaga-kaini-go",
+        "648": "akigumo-kaini",
+        "651": "danyang",
+        "656": "yukikaze-kaini",
         "678": "hiburi1",
         "679": "daitou1",
         "680": "hamanami1",

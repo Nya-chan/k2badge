@@ -4004,6 +4004,21 @@
         "full": "Akigumo",
         "name": "Kagerou"
     },
+    "akigumo-kaini": {
+        "offset": {
+            "x": 10,
+            "y": -10
+        },
+		"offset2": {
+            "x": 140,
+            "y": -140
+        },
+        "rarity": 7,
+        "type": "DD",
+        "unique": false,
+        "full": "Akigumo Kai Ni",
+        "name": "Kagerou"
+    },
     "akigumo2": {
         "offset": {
             "x": 20,
@@ -4406,6 +4421,36 @@
         "rarity": 6,
         "type": "DD",
         "unique": true,
+        "full": "Yukikaze",
+        "name": "Kagerou"
+    },
+    "danyang": {
+        "offset": {
+            "x": -60,
+            "y": 40
+        },
+        "offset2": {
+            "x": -30,
+            "y": 10
+        },
+        "rarity": 7,
+        "type": "DD",
+        "unique": false,
+        "full": "Dan Yang",
+        "name": "Kagerou"
+    },
+    "yukikaze-kaini": {
+        "offset": {
+            "x": 0,
+            "y": 50
+        },
+        "offset2": {
+            "x": -50,
+            "y": 0
+        },
+        "rarity": 8,
+        "type": "DD",
+        "unique": false,
         "full": "Yukikaze",
         "name": "Kagerou"
     },

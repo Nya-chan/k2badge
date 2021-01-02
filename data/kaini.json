@@ -298,6 +298,33 @@
             "actionReport": false,
             "conversion": false
         },
+        "danyang": {
+            "base": "yukikaze1",
+            "level": 71,
+            "kai": true,
+            "blueprint": true,
+            "prototype": false,
+            "actionReport": false,
+            "conversion": false
+        },
+        "yukikaze-kaini": {
+            "base": "danyang",
+            "level": 88,
+            "kai": true,
+            "blueprint": true,
+            "prototype": false,
+            "actionReport": true,
+            "conversion": false
+        },
+        "akigumo-kaini": {
+            "base": "akigumo1",
+            "level": 74,
+            "kai": true,
+            "blueprint": true,
+            "prototype": false,
+            "actionReport": true,
+            "conversion": false
+        },
         "z12": {
             "base": "z11",
             "level": 70,
@@ -665,7 +692,7 @@
             "conversion": false
         },
         "bismarck3": {
-            "base": "bismarck3",
+            "base": "bismarck2",
             "level": 50,
             "kai": true,
             "blueprint": true,
@@ -674,7 +701,7 @@
             "conversion": false
         },
         "bismarck4": {
-            "base": "bismarck4",
+            "base": "bismarck3",
             "level": 75,
             "kai": true,
             "blueprint": true,
@@ -683,7 +710,7 @@
             "conversion": false
         },
         "italia1": {
-            "base": "italia1",
+            "base": "littorio1",
             "level": 35,
             "kai": false,
             "blueprint": true,
