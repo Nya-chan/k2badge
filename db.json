@@ -5939,6 +5939,21 @@
         "full": "Christmas Libeccio",
         "name": "Maestrale"
     },
+    "scirocco": {
+        "offset": {
+            "x": 0,
+            "y": 0
+        },
+        "offset2": {
+            "x": 0,
+            "y": 0
+        },
+        "rarity": 6,
+        "type": "DD",
+        "unique": true,
+        "full": "Scirocco",
+        "name": "Maestrale"
+    },
     "kamikaze1": {
         "offset": {
             "x": 0,
@@ -6027,6 +6042,21 @@
         "type": "DD",
         "unique": true,
         "full": "Matsu",
+        "name": "Matsu"
+    },
+    "take": {
+        "offset": {
+            "x": 0,
+            "y": -120
+        },
+        "offset2": {
+            "x": -40,
+            "y": -110
+        },
+        "rarity": 6,
+        "type": "DD",
+        "unique": true,
+        "full": "Take",
         "name": "Matsu"
     },
     "jervis1": {
@@ -7873,6 +7903,21 @@
         "unique": true,
         "full": "Atlanta",
         "name": "Atlanta"
+    },
+    "sheffield": {
+        "offset": {
+            "x": 0,
+            "y": 50
+        },
+		"offset2": {
+            "x": -20,
+            "y": -50
+        },
+        "rarity": 6,
+        "type": "CL",
+        "unique": true,
+        "full": "Sheffield",
+        "name": "Town"
     },
     "furutaka1": {
         "offset": {
@@ -10220,6 +10265,36 @@
         "unique": false,
         "full": "Yukata South Dakota Kai",
         "name": "South_Dakota"
+    },
+    "washington": {
+        "offset": {
+            "x": 280,
+            "y": 40
+        },
+        "offset2": {
+            "x": 200,
+            "y": -80
+        },
+        "rarity": 7,
+        "type": "BB",
+        "unique": true,
+        "full": "Washington",
+        "name": "North_Carolina"
+    },
+	"washington-kai": {
+        "offset": {
+            "x": 280,
+            "y": 40
+        },
+        "offset2": {
+            "x": 200,
+            "y": -80
+        },
+        "rarity": 8,
+        "type": "BB",
+        "unique": false,
+        "full": "Washington Kai",
+        "name": "North_Carolina"
     },
     "houshou1": {
         "offset": {
