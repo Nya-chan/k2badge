@@ -1844,6 +1844,66 @@
         "full": "Rainy Season Sagiri",
         "name": "Ayanami"
     },
+    "sagiri_SETS": {
+        "offset": {
+            "x": 0,
+            "y": 50
+        },
+		"offset2": {
+            "x": -40,
+            "y": 30
+        },
+        "rarity": 3,
+        "type": "DD",
+        "unique": false,
+        "full": "Setsubun Sagiri",
+        "name": "Ayanami"
+    },
+    "sagiri_VAL": {
+        "offset": {
+            "x": 0,
+            "y": 50
+        },
+		"offset2": {
+            "x": 0,
+            "y": 30
+        },
+        "rarity": 3,
+        "type": "DD",
+        "unique": false,
+        "full": "Valentine Sagiri",
+        "name": "Ayanami"
+    },
+    "sagiri_HINA": {
+        "offset": {
+            "x": -30,
+            "y": 50
+        },
+		"offset2": {
+            "x": 0,
+            "y": 30
+        },
+        "rarity": 3,
+        "type": "DD",
+        "unique": false,
+        "full": "Hinamatsuri Sagiri",
+        "name": "Ayanami"
+    },
+    "sagiri_YKT": {
+        "offset": {
+            "x": -30,
+            "y": 50
+        },
+		"offset2": {
+            "x": -30,
+            "y": 50
+        },
+        "rarity": 3,
+        "type": "DD",
+        "unique": false,
+        "full": "Yukata Sagiri",
+        "name": "Ayanami"
+    },
     "amagiri1": {
         "offset": {
             "x": -70,
@@ -4407,6 +4467,21 @@
         "type": "DD",
         "unique": true,
         "full": "Nowaki",
+        "name": "Kagerou"
+    },
+    "nowaki_HALLOW": {
+        "offset": {
+            "x": 0,
+            "y": 20
+        },
+		"offset2": {
+            "x": 0,
+            "y": 20
+        },
+        "rarity": 5,
+        "type": "DD",
+        "unique": false,
+        "full": "Halloween Nowaki",
         "name": "Kagerou"
     },
     "yukikaze1": {
@@ -10152,6 +10227,21 @@
         "full": "Summer Richelieu",
         "name": "Richelieu"
     },
+    "richelieu_MONTB": {
+        "offset": {
+            "x": 30,
+            "y": 30
+        },
+        "offset2": {
+            "x": 10,
+            "y": -30
+        },
+        "rarity": 7,
+        "type": "BB",
+        "unique": false,
+        "full": "Mont Blanc Richelieu",
+        "name": "Richelieu"
+    },
     "colorado": {
         "offset": {
             "x": 170,
@@ -11910,6 +12000,21 @@
         "type": "SS",
         "unique": false,
         "full": "Summer Yonna Kai",
+        "name": "Junsen_Type_C"
+    },
+    "i47_FEST": {
+        "offset": {
+            "x": -20,
+            "y": 30
+        },
+        "offset2": {
+            "x": 100,
+            "y": 0
+        },
+        "rarity": 5,
+        "type": "SS",
+        "unique": false,
+        "full": "Naval Base Eel Festival Yonna",
         "name": "Junsen_Type_C"
     },
     "luigitorelli1": {
