@@ -13528,7 +13528,7 @@
         },
         "rarity": 4,
         "type": "AX",
-        "unique": true,
+        "unique": false,
         "full": "Christmas jingei",
         "name": "Jingei"
     },
