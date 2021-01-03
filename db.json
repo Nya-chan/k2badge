@@ -704,6 +704,21 @@
         "full": "Yotsu",
         "name": "Type_D"
     },
+    "kaiboukan4_XMAS": {
+        "offset": {
+            "x": 0,
+            "y": 0
+        },
+        "offset2": {
+            "x": -50,
+            "y": 0
+        },
+        "rarity": 4,
+        "type": "DE",
+        "unique": false,
+        "full": "Christmas Yotsu",
+        "name": "Type_D"
+    },
     "shimakaze1": {
         "offset": {
             "x": 100,
@@ -1754,6 +1769,36 @@
         "full": "Celebration Ushio",
         "name": "Ayanami"
     },
+    "ushio_XMAS": {
+        "offset": {
+            "x": -20,
+            "y": 0
+        },
+        "offset2": {
+            "x": 0,
+            "y": -50
+        },
+        "rarity": 4,
+        "type": "DD",
+        "unique": false,
+        "full": "Christmas Ushio",
+        "name": "Ayanami"
+    },
+    "ushio-kaini_XMAS": {
+        "offset": {
+            "x": -20,
+            "y": 0
+        },
+        "offset2": {
+            "x": 0,
+            "y": -50
+        },
+        "rarity": 6,
+        "type": "DD",
+        "unique": false,
+        "full": "Christmas Ushio Kai Ni",
+        "name": "Ayanami"
+    },
     "sagiri1": {
         "offset": {
             "x": -30,
@@ -2067,6 +2112,21 @@
         "type": "DD",
         "unique": false,
         "full": "Kisaragi Kai Ni",
+        "name": "Mutsuki"
+    },
+    "kisaragi_XMAS": {
+        "offset": {
+            "x": 60,
+            "y": 30
+        },
+		"offset2": {
+            "x": 60,
+            "y": 30
+        },
+        "rarity": 4,
+        "type": "DD",
+        "unique": false,
+        "full": "Christmas Kisaragi",
         "name": "Mutsuki"
     },
     "satsuki1": {
@@ -10821,6 +10881,36 @@
         "full": "Autumn Ryuuhou",
         "name": "Ryuuhou"
     },
+    "ryuuhou_XMAS": {
+        "offset": {
+            "x": 0,
+            "y": 50
+        },
+        "offset2": {
+            "x": -50,
+            "y": 50
+        },
+        "rarity": 5,
+        "type": "CVL",
+        "unique": false,
+        "full": "Christmas Ryuuhou",
+        "name": "Ryuuhou"
+    },
+    "ryuuhou-kai_XMAS": {
+        "offset": {
+            "x": 0,
+            "y": 50
+        },
+        "offset2": {
+            "x": -50,
+            "y": 50
+        },
+        "rarity": 6,
+        "type": "CVL",
+        "unique": false,
+        "full": "Christmas Ryuuhou Kai",
+        "name": "Ryuuhou"
+    },
     "suzuyacvl1": {
         "offset": {
             "x": -40,
@@ -12017,6 +12107,21 @@
         "full": "Naval Base Eel Festival Yonna",
         "name": "Junsen_Type_C"
     },
+    "i47_XMAS": {
+        "offset": {
+            "x": -10,
+            "y": 40
+        },
+        "offset2": {
+            "x": 0,
+            "y": -40
+        },
+        "rarity": 5,
+        "type": "SS",
+        "unique": false,
+        "full": "Christmas Yonna",
+        "name": "Junsen_Type_C"
+    },
     "luigitorelli1": {
         "offset": {
             "x": -50,
@@ -12527,6 +12632,21 @@
         "full": "Autumn Taigei",
         "name": "Taigei"
     },
+    "taigei_XMAS": {
+        "offset": {
+            "x": 0,
+            "y": 50
+        },
+        "offset2": {
+            "x": -50,
+            "y": 50
+        },
+        "rarity": 4,
+        "type": "AX",
+        "unique": false,
+        "full": "Autumn Taigei",
+        "name": "Taigei"
+    },
     "akitsushima1": {
         "offset": {
             "x": 50,
@@ -12872,6 +12992,21 @@
         "full": "Zuiun Hayasui",
         "name": "Hayasui"
     },
+    "hayasui_XMAS": {
+        "offset": {
+            "x": 50,
+            "y": 60
+        },
+        "offset2": {
+            "x": -50,
+            "y": -20
+        },
+        "rarity": 7,
+        "type": "AX",
+        "unique": false,
+        "full": "Christmas Hayasui",
+        "name": "Hayasui"
+    },
     "commandantteste1": {
         "offset": {
             "x": 0,
@@ -13215,6 +13350,36 @@
         "type": "AX",
         "unique": false,
         "full": "Yukata Jingei",
+        "name": "Jingei"
+    },
+    "jingei_XMAS": {
+        "offset": {
+            "x": -60,
+            "y": 50
+        },
+        "offset2": {
+            "x": 60,
+            "y": 20
+        },
+        "rarity": 4,
+        "type": "AX",
+        "unique": true,
+        "full": "Christmas jingei",
+        "name": "Jingei"
+    },
+    "jingei-kai_XMAS": {
+        "offset": {
+            "x": -60,
+            "y": 50
+        },
+        "offset2": {
+            "x": 60,
+            "y": 20
+        },
+        "rarity": 5,
+        "type": "AX",
+        "unique": false,
+        "full": "Christmas Jingei Kai",
         "name": "Jingei"
     }
 }
