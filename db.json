@@ -2069,6 +2069,21 @@
         "full": "Mutsuki Kai Ni",
         "name": "Mutsuki"
     },
+    "mutsuki_NY": {
+        "offset": {
+            "x": -60,
+            "y": 30
+        },
+		"offset2": {
+            "x": -60,
+            "y": 30
+        },
+        "rarity": 4,
+        "type": "DD",
+        "unique": false,
+        "full": "New Year's Mutsuki",
+        "name": "Mutsuki"
+    },
     "kisaragi1": {
         "offset": {
             "x": -20,
@@ -7163,10 +7178,25 @@
             "x": -60,
             "y": 30
         },
-        "rarity": 6,
+        "rarity": 3,
         "type": "CL",
         "unique": false,
         "full": "Autumn Casual Sendai",
+        "name": "Sendai"
+    },
+    "sendai_NY": {
+        "offset": {
+            "x": -60,
+            "y": 50
+        },
+        "offset2": {
+            "x": 200,
+            "y": -120
+        },
+        "rarity": 3,
+        "type": "CL",
+        "unique": false,
+        "full": "New Year's Sendai",
         "name": "Sendai"
     },
     "jintsuu1": {
@@ -8234,6 +8264,36 @@
         "full": "Christmas Kinugasa Kai Ni",
         "name": "Aoba"
     },
+    "kinugasa_NY": {
+        "offset": {
+            "x": 0,
+            "y": 30
+        },
+        "offset2": {
+            "x": 0,
+            "y": -40
+        },
+        "rarity": 4,
+        "type": "CA",
+        "unique": false,
+        "full": "New Year's Kinugasa",
+        "name": "Aoba"
+    },
+    "kinugasa-kaini_NY": {
+        "offset": {
+            "x": 0,
+            "y": 30
+        },
+        "offset2": {
+            "x": 0,
+            "y": -40
+        },
+        "rarity": 6,
+        "type": "CA",
+        "unique": false,
+        "full": "New Year's Kinugasa Kai Ni",
+        "name": "Aoba"
+    },
     "myoukou1": {
         "offset": {
             "x": 0,
@@ -8956,6 +9016,21 @@
         "full": "Summer Houston Kai",
         "name": "Northampton"
     },
+    "houston_NY": {
+        "offset": {
+            "x": -20,
+            "y": 30
+        },
+        "offset2": {
+            "x": 40,
+            "y": 50
+        },
+        "rarity": 6,
+        "type": "CA",
+        "unique": false,
+        "full": "New Year's Houston",
+        "name": "Northampton"
+    },
     "nagato1": {
         "offset": {
             "x": 75,
@@ -9203,6 +9278,21 @@
         "type": "BB",
         "unique": false,
         "full": "Haregi Hiei Kai Ni",
+        "name": "Kongou"
+    },
+    "hiei-kaini-c_NY": {
+        "offset": {
+            "x": 50,
+            "y": 80
+        },
+		"offset2": {
+            "x": 80,
+            "y": 70
+        },
+        "rarity": 7,
+        "type": "BB",
+        "unique": false,
+        "full": "Haregi Hiei Kai Ni C",
         "name": "Kongou"
     },
     "haruna1": {
@@ -10911,6 +11001,36 @@
         "full": "Christmas Ryuuhou Kai",
         "name": "Ryuuhou"
     },
+    "ryuuhou_NY": {
+        "offset": {
+            "x": 0,
+            "y": 50
+        },
+        "offset2": {
+            "x": 0,
+            "y": 0
+        },
+        "rarity": 5,
+        "type": "CVL",
+        "unique": false,
+        "full": "New Year's Ryuuhou",
+        "name": "Ryuuhou"
+    },
+    "ryuuhou-kai_NY": {
+        "offset": {
+            "x": 0,
+            "y": 50
+        },
+        "offset2": {
+            "x": 0,
+            "y": 0
+        },
+        "rarity": 6,
+        "type": "CVL",
+        "unique": false,
+        "full": "New Year's Ryuuhou Kai",
+        "name": "Ryuuhou"
+    },
     "suzuyacvl1": {
         "offset": {
             "x": -40,
@@ -11046,6 +11166,21 @@
         "full": "Shinyou Kai Ni",
         "name": "Taiyou"
     },
+    "shinyou_NY": {
+        "offset": {
+            "x": 0,
+            "y": 50
+        },
+		"offset2": {
+            "x": 0,
+            "y": 50
+        },
+        "rarity": 4,
+        "type": "CVL",
+        "unique": false,
+        "full": "New Year's Shinyou",
+        "name": "Taiyou"
+    },
     "gambierbay1": {
         "offset": {
             "x": -50,
@@ -11119,6 +11254,21 @@
         "type": "CVL",
         "unique": false,
         "full": "Rainy Season Gambier Bay",
+        "name": "Casablanca"
+     },
+     "gambierbay_NY": {
+        "offset": {
+            "x": 0,
+            "y": 30
+        },
+        "offset2": {
+            "x": 0,
+            "y": -20
+        },
+        "rarity": 5,
+        "type": "CVL",
+        "unique": false,
+        "full": "New Year's Gambier Bay",
         "name": "Casablanca"
      },
     "akagi1": {
@@ -11269,6 +11419,21 @@
         "type": "CV",
         "unique": false,
         "full": "New Year's Kaga",
+        "name": "Kaga"
+    },
+    "kaga-kaini_NY": {
+        "offset": {
+            "x": -50,
+            "y": 50
+        },
+		"offset2": {
+            "x": -50,
+            "y": 50
+        },
+        "rarity": 8,
+        "type": "CV",
+        "unique": false,
+        "full": "New Year's Kaga Kai Ni",
         "name": "Kaga"
     },
     "souryuu1": {
@@ -12599,7 +12764,7 @@
         "rarity": 4,
         "type": "AX",
         "unique": false,
-        "full": "New Year's Taigei/Ryuuhou",
+        "full": "New Year's Taigei",
         "name": "Taigei"
     },
     "taigei3": {
