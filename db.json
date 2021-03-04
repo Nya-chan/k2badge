@@ -1229,6 +1229,21 @@
         "full": "Celebration Oboro",
         "name": "Ayanami"
     },
+    "oboro_SETS": {
+        "offset": {
+            "x": 0,
+            "y": 40
+        },
+        "offset2": {
+            "x": 0,
+            "y": 30
+        },
+        "rarity": 1,
+        "type": "DD",
+        "unique": false,
+        "full": "Setsubun Oboro",
+        "name": "Ayanami"
+    },
     "akebono1": {
         "offset": {
             "x": 20,
@@ -6659,6 +6674,36 @@
         "full": "Kuma",
         "name": "Kuma"
     },
+    "kuma-kaini": {
+        "offset": {
+            "x": 30,
+            "y": 20
+        },
+        "offset2": {
+            "x": 80,
+            "y": -10
+        },
+        "rarity": 8,
+        "type": "CL",
+        "unique": false,
+        "full": "Kuma Kai Ni",
+        "name": "Kuma"
+    },
+    "kuma-kaini-d": {
+        "offset": {
+            "x": 30,
+            "y": 20
+        },
+        "offset2": {
+            "x": 80,
+            "y": -10
+        },
+        "rarity": 8,
+        "type": "CL",
+        "unique": false,
+        "full": "Kuma Kai Ni D",
+        "name": "Kuma"
+    },
     "kuma2": {
         "offset": {
             "x": 10,
@@ -7512,6 +7557,21 @@
         "type": "CL",
         "unique": false,
         "full": "Christmas Sakawa",
+        "name": "Agano"
+    },
+    "sakawa_SETS": {
+        "offset": {
+            "x": -50,
+            "y": 60
+        },
+		"offset2": {
+            "x": -50,
+            "y": 60
+        },
+        "rarity": 5,
+        "type": "CL",
+        "unique": false,
+        "full": "Setsubun Sakawa",
         "name": "Agano"
     },
     "ooyodo1": {
@@ -10566,6 +10626,21 @@
         "full": "New Years Houshou",
         "name": "Houshou"
     },
+    "houshou_SETS": {
+        "offset": {
+            "x": 20,
+            "y": 60
+        },
+        "offset2": {
+            "x": 20,
+            "y": 60
+        },
+        "rarity": 3,
+        "type": "CVL",
+        "unique": false,
+        "full": "Setsubun Houshou",
+        "name": "Houshou"
+    },
     "ryuujou1": {
         "offset": {
             "x": -20,
@@ -12287,6 +12362,21 @@
         "full": "Christmas Yonna",
         "name": "Junsen_Type_C"
     },
+    "i47_SETS": {
+        "offset": {
+            "x": -50,
+            "y": 40
+        },
+        "offset2": {
+            "x": 0,
+            "y": -10
+        },
+        "rarity": 5,
+        "type": "SS",
+        "unique": false,
+        "full": "Setsubun Yonna",
+        "name": "Junsen_Type_C"
+    },
     "luigitorelli1": {
         "offset": {
             "x": -50,
@@ -13545,6 +13635,21 @@
         "type": "AX",
         "unique": false,
         "full": "Christmas Jingei Kai",
+        "name": "Jingei"
+    },
+    "jingei_SETS": {
+        "offset": {
+            "x": -30,
+            "y": 60
+        },
+        "offset2": {
+            "x": -30,
+            "y": 60
+        },
+        "rarity": 4,
+        "type": "AX",
+        "unique": false,
+        "full": "Setsubun Jingei",
         "name": "Jingei"
     }
 }

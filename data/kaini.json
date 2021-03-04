@@ -381,6 +381,15 @@
             "actionReport": false,
             "conversion": false
         },
+        "kuna-kaini": {
+            "base": "kuma1",
+            "level": 88,
+            "kai": true,
+            "blueprint": true,
+            "prototype": false,
+            "actionReport": false,
+            "conversion": true
+        },
         "tama4": {
             "base": "tama1",
             "level": 70,

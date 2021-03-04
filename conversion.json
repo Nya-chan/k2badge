@@ -650,6 +650,9 @@
         ],
         "washington-kai": [
             "washington"
+        ],
+        "kuma-kaini": [
+            "kuma1"
         ]
     },
     "mstId2FleetIdTable": {
@@ -1257,9 +1260,11 @@
         "646": "kaga-kaini-go",
         "648": "akigumo-kaini",
         "651": "danyang",
+        "652": "kuma-kaini",
         "653": "scirocco",
         "654": "washington",
         "656": "yukikaze-kaini",
+        "657": "kuma-kaini-d",
         "658": "scirocco",
         "659": "washington-kai",
         "678": "hiburi1",
