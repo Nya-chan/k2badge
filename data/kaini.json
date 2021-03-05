@@ -37,6 +37,15 @@
             "actionReport": false,
             "conversion": false
         },
+        "akebono-kaini": {
+            "base": "akebono1",
+            "level": 82,
+            "kai": false,
+            "blueprint": false,
+            "prototype": false,
+            "actionReport": false,
+            "conversion": false
+        },
         "ushio2": {
             "base": "ushio1",
             "level": 60,

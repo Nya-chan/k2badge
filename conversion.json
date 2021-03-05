@@ -656,6 +656,10 @@
         ],
         "noshiro-kaini": [
             "noshiro1"
+        ],
+        "akebono-kaini": [
+            "akebono1",
+            "akebono9"
         ]
     },
     "mstId2FleetIdTable": {
@@ -1271,6 +1275,7 @@
         "658": "scirocco",
         "659": "washington-kai",
         "662": "noshiro-kaini",
+        "665": "akebono-kaini",
         "678": "hiburi1",
         "679": "daitou1",
         "680": "hamanami1",

@@ -284,6 +284,21 @@
         "full": "Setsubun Matsuwa",
         "name": "Etorofu"
     },
+    "matsuwa_HINA": {
+        "offset": {
+            "x": 150,
+            "y": 0
+        },
+        "offset2": {
+            "x": 150,
+            "y": 0
+        },
+        "rarity": 4,
+        "type": "DE",
+        "unique": false,
+        "full": "Hinamatsuri Matsuwa",
+        "name": "Etorofu"
+    },
     "sado1": {
         "offset": {
             "x": -50,
@@ -357,6 +372,21 @@
         "type": "DE",
         "unique": false,
         "full": "Rainy Season Sado",
+        "name": "Etorofu"
+    },
+    "sado_HINA": {
+        "offset": {
+            "x": 0,
+            "y": -20
+        },
+        "offset2": {
+            "x": -60,
+            "y": -50
+        },
+        "rarity": 4,
+        "type": "DE",
+        "unique": false,
+        "full": "Hinamatsuri Sado",
         "name": "Etorofu"
     },
     "tsushima1": {
@@ -717,6 +747,21 @@
         "type": "DE",
         "unique": false,
         "full": "Christmas Yotsu",
+        "name": "Type_D"
+    },
+    "kaiboukan4_HINA": {
+        "offset": {
+            "x": -60,
+            "y": 0
+        },
+        "offset2": {
+            "x": 100,
+            "y": -20
+        },
+        "rarity": 4,
+        "type": "DE",
+        "unique": false,
+        "full": "Hinamatsuri Yotsu",
         "name": "Type_D"
     },
     "shimakaze1": {
@@ -1257,6 +1302,21 @@
         "type": "DD",
         "unique": true,
         "full": "Akebono",
+        "name": "Ayanami"
+    },
+    "akebono-kaini": {
+        "offset": {
+            "x": 0,
+            "y": -100
+        },
+		"offset2": {
+            "x": -80,
+            "y": -100
+        },
+        "rarity": 7,
+        "type": "DD",
+        "unique": false,
+        "full": "Akebono Kai Ni",
         "name": "Ayanami"
     },
     "akebono2": {
@@ -4679,6 +4739,21 @@
         "full": "Amatsukaze Kai",
         "name": "Kagerou"
     },
+    "amatsukaze_HINA": {
+        "offset": {
+            "x": 80,
+            "y": 20
+        },
+		"offset2": {
+            "x": 80,
+            "y": 20
+        },
+        "rarity": 6,
+        "type": "DD",
+        "unique": false,
+        "full": "Hinamatsuri Amatsukaze",
+        "name": "Kagerou"
+    },
     "arashi1": {
         "offset": {
             "x": -50,
@@ -4827,6 +4902,21 @@
         "type": "DD",
         "unique": false,
         "full": "Outing Yuugumo",
+        "name": "Yuugumo"
+    },
+    "yuugumo_HINA": {
+        "offset": {
+            "x": 100,
+            "y": 10
+        },
+        "offset2": {
+            "x": 160,
+            "y": -10
+        },
+        "rarity": 5,
+        "type": "DD",
+        "unique": false,
+        "full": "Hinamatsuri Yuugumo",
         "name": "Yuugumo"
     },
     "makigumo1": {
