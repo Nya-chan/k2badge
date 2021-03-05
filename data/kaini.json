@@ -37,6 +37,15 @@
             "actionReport": false,
             "conversion": false
         },
+        "akebono-kaini": {
+            "base": "akebono1",
+            "level": 82,
+            "kai": false,
+            "blueprint": false,
+            "prototype": false,
+            "actionReport": false,
+            "conversion": false
+        },
         "ushio2": {
             "base": "ushio1",
             "level": 60,
@@ -298,6 +307,33 @@
             "actionReport": false,
             "conversion": false
         },
+        "danyang": {
+            "base": "yukikaze1",
+            "level": 71,
+            "kai": true,
+            "blueprint": true,
+            "prototype": false,
+            "actionReport": false,
+            "conversion": false
+        },
+        "yukikaze-kaini": {
+            "base": "danyang",
+            "level": 88,
+            "kai": true,
+            "blueprint": true,
+            "prototype": false,
+            "actionReport": true,
+            "conversion": false
+        },
+        "akigumo-kaini": {
+            "base": "akigumo1",
+            "level": 74,
+            "kai": true,
+            "blueprint": true,
+            "prototype": false,
+            "actionReport": true,
+            "conversion": false
+        },
         "z12": {
             "base": "z11",
             "level": 70,
@@ -353,6 +389,15 @@
             "prototype": false,
             "actionReport": false,
             "conversion": false
+        },
+        "kuna-kaini": {
+            "base": "kuma1",
+            "level": 88,
+            "kai": true,
+            "blueprint": true,
+            "prototype": false,
+            "actionReport": false,
+            "conversion": true
         },
         "tama4": {
             "base": "tama1",
@@ -456,6 +501,15 @@
         "yuubari-kaini": {
             "base": "yuubari1",
             "level": 84,
+            "kai": true,
+            "blueprint": true,
+            "prototype": false,
+            "actionReport": true,
+            "conversion": false
+        },
+        "noshiro-kaini": {
+            "base": "noshiro1",
+            "level": 85,
             "kai": true,
             "blueprint": true,
             "prototype": false,
@@ -665,7 +719,7 @@
             "conversion": false
         },
         "bismarck3": {
-            "base": "bismarck3",
+            "base": "bismarck2",
             "level": 50,
             "kai": true,
             "blueprint": true,
@@ -674,7 +728,7 @@
             "conversion": false
         },
         "bismarck4": {
-            "base": "bismarck4",
+            "base": "bismarck3",
             "level": 75,
             "kai": true,
             "blueprint": true,
@@ -683,7 +737,7 @@
             "conversion": false
         },
         "italia1": {
-            "base": "italia1",
+            "base": "littorio1",
             "level": 35,
             "kai": false,
             "blueprint": true,

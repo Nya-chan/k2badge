@@ -1362,11 +1362,11 @@ $(document).ready(function() {
 
         $('.tooltip').tooltipster();
 
-        /*$(".shipClasses").find("label").next("div").each(function() {
+        $(".shipClasses").find("label").next("div").each(function() {
             if ($(this).find("img").length == 0) {
                 $(this).parent().remove();
             }
-        });*/
+        });
 
         $("#fleetSelect div").on("click", function() {
             $("#fleetSelect .chosen").removeClass("chosen");

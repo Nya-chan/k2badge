@@ -284,6 +284,21 @@
         "full": "Setsubun Matsuwa",
         "name": "Etorofu"
     },
+    "matsuwa_HINA": {
+        "offset": {
+            "x": 150,
+            "y": 0
+        },
+        "offset2": {
+            "x": 150,
+            "y": 0
+        },
+        "rarity": 4,
+        "type": "DE",
+        "unique": false,
+        "full": "Hinamatsuri Matsuwa",
+        "name": "Etorofu"
+    },
     "sado1": {
         "offset": {
             "x": -50,
@@ -357,6 +372,21 @@
         "type": "DE",
         "unique": false,
         "full": "Rainy Season Sado",
+        "name": "Etorofu"
+    },
+    "sado_HINA": {
+        "offset": {
+            "x": 0,
+            "y": -20
+        },
+        "offset2": {
+            "x": -60,
+            "y": -50
+        },
+        "rarity": 4,
+        "type": "DE",
+        "unique": false,
+        "full": "Hinamatsuri Sado",
         "name": "Etorofu"
     },
     "tsushima1": {
@@ -702,6 +732,36 @@
         "type": "DE",
         "unique": true,
         "full": "Yotsu",
+        "name": "Type_D"
+    },
+    "kaiboukan4_XMAS": {
+        "offset": {
+            "x": 0,
+            "y": 0
+        },
+        "offset2": {
+            "x": -50,
+            "y": 0
+        },
+        "rarity": 4,
+        "type": "DE",
+        "unique": false,
+        "full": "Christmas Yotsu",
+        "name": "Type_D"
+    },
+    "kaiboukan4_HINA": {
+        "offset": {
+            "x": -60,
+            "y": 0
+        },
+        "offset2": {
+            "x": 100,
+            "y": -20
+        },
+        "rarity": 4,
+        "type": "DE",
+        "unique": false,
+        "full": "Hinamatsuri Yotsu",
         "name": "Type_D"
     },
     "shimakaze1": {
@@ -1214,6 +1274,21 @@
         "full": "Celebration Oboro",
         "name": "Ayanami"
     },
+    "oboro_SETS": {
+        "offset": {
+            "x": 0,
+            "y": 40
+        },
+        "offset2": {
+            "x": 0,
+            "y": 30
+        },
+        "rarity": 1,
+        "type": "DD",
+        "unique": false,
+        "full": "Setsubun Oboro",
+        "name": "Ayanami"
+    },
     "akebono1": {
         "offset": {
             "x": 20,
@@ -1227,6 +1302,21 @@
         "type": "DD",
         "unique": true,
         "full": "Akebono",
+        "name": "Ayanami"
+    },
+    "akebono-kaini": {
+        "offset": {
+            "x": 0,
+            "y": -100
+        },
+		"offset2": {
+            "x": -80,
+            "y": -100
+        },
+        "rarity": 7,
+        "type": "DD",
+        "unique": false,
+        "full": "Akebono Kai Ni",
         "name": "Ayanami"
     },
     "akebono2": {
@@ -1754,6 +1844,36 @@
         "full": "Celebration Ushio",
         "name": "Ayanami"
     },
+    "ushio_XMAS": {
+        "offset": {
+            "x": -20,
+            "y": 0
+        },
+        "offset2": {
+            "x": 0,
+            "y": -50
+        },
+        "rarity": 4,
+        "type": "DD",
+        "unique": false,
+        "full": "Christmas Ushio",
+        "name": "Ayanami"
+    },
+    "ushio-kaini_XMAS": {
+        "offset": {
+            "x": -20,
+            "y": 0
+        },
+        "offset2": {
+            "x": 0,
+            "y": -50
+        },
+        "rarity": 6,
+        "type": "DD",
+        "unique": false,
+        "full": "Christmas Ushio Kai Ni",
+        "name": "Ayanami"
+    },
     "sagiri1": {
         "offset": {
             "x": -30,
@@ -1842,6 +1962,66 @@
         "type": "DD",
         "unique": false,
         "full": "Rainy Season Sagiri",
+        "name": "Ayanami"
+    },
+    "sagiri_SETS": {
+        "offset": {
+            "x": 0,
+            "y": 50
+        },
+		"offset2": {
+            "x": -40,
+            "y": 30
+        },
+        "rarity": 3,
+        "type": "DD",
+        "unique": false,
+        "full": "Setsubun Sagiri",
+        "name": "Ayanami"
+    },
+    "sagiri_VAL": {
+        "offset": {
+            "x": 0,
+            "y": 50
+        },
+		"offset2": {
+            "x": 0,
+            "y": 30
+        },
+        "rarity": 3,
+        "type": "DD",
+        "unique": false,
+        "full": "Valentine Sagiri",
+        "name": "Ayanami"
+    },
+    "sagiri_HINA": {
+        "offset": {
+            "x": -30,
+            "y": 50
+        },
+		"offset2": {
+            "x": 0,
+            "y": 30
+        },
+        "rarity": 3,
+        "type": "DD",
+        "unique": false,
+        "full": "Hinamatsuri Sagiri",
+        "name": "Ayanami"
+    },
+    "sagiri_YKT": {
+        "offset": {
+            "x": -30,
+            "y": 50
+        },
+		"offset2": {
+            "x": -30,
+            "y": 50
+        },
+        "rarity": 3,
+        "type": "DD",
+        "unique": false,
+        "full": "Yukata Sagiri",
         "name": "Ayanami"
     },
     "amagiri1": {
@@ -1964,6 +2144,21 @@
         "full": "Mutsuki Kai Ni",
         "name": "Mutsuki"
     },
+    "mutsuki_NY": {
+        "offset": {
+            "x": -60,
+            "y": 30
+        },
+		"offset2": {
+            "x": -60,
+            "y": 30
+        },
+        "rarity": 4,
+        "type": "DD",
+        "unique": false,
+        "full": "New Year's Mutsuki",
+        "name": "Mutsuki"
+    },
     "kisaragi1": {
         "offset": {
             "x": -20,
@@ -2007,6 +2202,21 @@
         "type": "DD",
         "unique": false,
         "full": "Kisaragi Kai Ni",
+        "name": "Mutsuki"
+    },
+    "kisaragi_XMAS": {
+        "offset": {
+            "x": 60,
+            "y": 30
+        },
+		"offset2": {
+            "x": 60,
+            "y": 30
+        },
+        "rarity": 4,
+        "type": "DD",
+        "unique": false,
+        "full": "Christmas Kisaragi",
         "name": "Mutsuki"
     },
     "satsuki1": {
@@ -4004,6 +4214,21 @@
         "full": "Akigumo",
         "name": "Kagerou"
     },
+    "akigumo-kaini": {
+        "offset": {
+            "x": 10,
+            "y": -10
+        },
+		"offset2": {
+            "x": 140,
+            "y": -140
+        },
+        "rarity": 7,
+        "type": "DD",
+        "unique": false,
+        "full": "Akigumo Kai Ni",
+        "name": "Kagerou"
+    },
     "akigumo2": {
         "offset": {
             "x": 20,
@@ -4394,6 +4619,21 @@
         "full": "Nowaki",
         "name": "Kagerou"
     },
+    "nowaki_HALLOW": {
+        "offset": {
+            "x": 0,
+            "y": 20
+        },
+		"offset2": {
+            "x": 0,
+            "y": 20
+        },
+        "rarity": 5,
+        "type": "DD",
+        "unique": false,
+        "full": "Halloween Nowaki",
+        "name": "Kagerou"
+    },
     "yukikaze1": {
         "offset": {
             "x": 0,
@@ -4406,6 +4646,36 @@
         "rarity": 6,
         "type": "DD",
         "unique": true,
+        "full": "Yukikaze",
+        "name": "Kagerou"
+    },
+    "danyang": {
+        "offset": {
+            "x": -60,
+            "y": 40
+        },
+        "offset2": {
+            "x": -30,
+            "y": 10
+        },
+        "rarity": 7,
+        "type": "DD",
+        "unique": false,
+        "full": "Dan Yang",
+        "name": "Kagerou"
+    },
+    "yukikaze-kaini": {
+        "offset": {
+            "x": 0,
+            "y": 50
+        },
+        "offset2": {
+            "x": -50,
+            "y": 0
+        },
+        "rarity": 8,
+        "type": "DD",
+        "unique": false,
         "full": "Yukikaze",
         "name": "Kagerou"
     },
@@ -4467,6 +4737,21 @@
         "type": "DD",
         "unique": false,
         "full": "Amatsukaze Kai",
+        "name": "Kagerou"
+    },
+    "amatsukaze_HINA": {
+        "offset": {
+            "x": 80,
+            "y": 20
+        },
+		"offset2": {
+            "x": 80,
+            "y": 20
+        },
+        "rarity": 6,
+        "type": "DD",
+        "unique": false,
+        "full": "Hinamatsuri Amatsukaze",
         "name": "Kagerou"
     },
     "arashi1": {
@@ -4617,6 +4902,21 @@
         "type": "DD",
         "unique": false,
         "full": "Outing Yuugumo",
+        "name": "Yuugumo"
+    },
+    "yuugumo_HINA": {
+        "offset": {
+            "x": 100,
+            "y": 10
+        },
+        "offset2": {
+            "x": 160,
+            "y": -10
+        },
+        "rarity": 5,
+        "type": "DD",
+        "unique": false,
+        "full": "Hinamatsuri Yuugumo",
         "name": "Yuugumo"
     },
     "makigumo1": {
@@ -5744,6 +6044,21 @@
         "full": "Summer Maestrale Kai",
         "name": "Maestrale"
     },
+    "maestrale_VAL": {
+        "offset": {
+            "x": 20,
+            "y": 30
+        },
+        "offset2": {
+            "x": 20,
+            "y": 30
+        },
+        "rarity": 6,
+        "type": "DD",
+        "unique": false,
+        "full": "Valentines Maestrale",
+        "name": "Maestrale"
+    },
     "grecale": {
         "offset": {
             "x": -90,
@@ -5776,12 +6091,12 @@
     },
     "grecale_VAL": {
         "offset": {
-            "x": 30,
-            "y": 40
+            "x": 0,
+            "y": 0
         },
         "offset2": {
-            "x": 30,
-            "y": 40
+            "x": 0,
+            "y": 0
         },
         "rarity": 6,
         "type": "DD",
@@ -5894,6 +6209,51 @@
         "full": "Christmas Libeccio",
         "name": "Maestrale"
     },
+    "libeccio_VAL": {
+        "offset": {
+            "x": -30,
+            "y": 30
+        },
+        "offset2": {
+            "x": -30,
+            "y": 30
+        },
+        "rarity": 7,
+        "type": "DD",
+        "unique": false,
+        "full": "Valentines Libeccio",
+        "name": "Maestrale"
+    },
+    "scirocco": {
+        "offset": {
+            "x": 0,
+            "y": 0
+        },
+        "offset2": {
+            "x": 0,
+            "y": 0
+        },
+        "rarity": 6,
+        "type": "DD",
+        "unique": true,
+        "full": "Scirocco",
+        "name": "Maestrale"
+    },
+    "scirocco_VAL": {
+        "offset": {
+            "x": -60,
+            "y": 30
+        },
+        "offset2": {
+            "x": -60,
+            "y": 30
+        },
+        "rarity": 6,
+        "type": "DD",
+        "unique": false,
+        "full": "Valentines Scirocco",
+        "name": "Maestrale"
+    },
     "kamikaze1": {
         "offset": {
             "x": 0,
@@ -5982,6 +6342,21 @@
         "type": "DD",
         "unique": true,
         "full": "Matsu",
+        "name": "Matsu"
+    },
+    "take": {
+        "offset": {
+            "x": 0,
+            "y": -120
+        },
+        "offset2": {
+            "x": -40,
+            "y": -110
+        },
+        "rarity": 6,
+        "type": "DD",
+        "unique": true,
+        "full": "Take",
         "name": "Matsu"
     },
     "jervis1": {
@@ -6329,6 +6704,21 @@
         "full": "Spring Bouquet Johnston",
         "name": "Fletcher"
     },
+    "johnston_VAL": {
+        "offset": {
+            "x": 0,
+            "y": 40
+        },
+        "offset2": {
+            "x": -20,
+            "y": -30
+        },
+        "rarity": 5,
+        "type": "DD",
+        "unique": false,
+        "full": "Valentines Johnston",
+        "name": "Fletcher"
+    },
     "tenryuu1": {
         "offset": {
             "x": 100,
@@ -6432,6 +6822,36 @@
         "type": "CL",
         "unique": true,
         "full": "Kuma",
+        "name": "Kuma"
+    },
+    "kuma-kaini": {
+        "offset": {
+            "x": 30,
+            "y": 20
+        },
+        "offset2": {
+            "x": 80,
+            "y": -10
+        },
+        "rarity": 8,
+        "type": "CL",
+        "unique": false,
+        "full": "Kuma Kai Ni",
+        "name": "Kuma"
+    },
+    "kuma-kaini-d": {
+        "offset": {
+            "x": 30,
+            "y": 20
+        },
+        "offset2": {
+            "x": 80,
+            "y": -10
+        },
+        "rarity": 8,
+        "type": "CL",
+        "unique": false,
+        "full": "Kuma Kai Ni D",
         "name": "Kuma"
     },
     "kuma2": {
@@ -6953,10 +7373,25 @@
             "x": -60,
             "y": 30
         },
-        "rarity": 6,
+        "rarity": 3,
         "type": "CL",
         "unique": false,
         "full": "Autumn Casual Sendai",
+        "name": "Sendai"
+    },
+    "sendai_NY": {
+        "offset": {
+            "x": -60,
+            "y": 50
+        },
+        "offset2": {
+            "x": 200,
+            "y": -120
+        },
+        "rarity": 3,
+        "type": "CL",
+        "unique": false,
+        "full": "New Year's Sendai",
         "name": "Sendai"
     },
     "jintsuu1": {
@@ -7229,6 +7664,21 @@
         "full": "Noshiro",
         "name": "Agano"
     },
+    "noshiro-kaini": {
+        "offset": {
+            "x": 150,
+            "y": 10
+        },
+        "offset2": {
+            "x": 0,
+            "y": 0
+        },
+        "rarity": 7,
+        "type": "CL",
+        "unique": false,
+        "full": "Noshiro Kai Ni",
+        "name": "Agano"
+    },
     "yahagi1": {
         "offset": {
             "x": 70,
@@ -7272,6 +7722,21 @@
         "type": "CL",
         "unique": false,
         "full": "Christmas Sakawa",
+        "name": "Agano"
+    },
+    "sakawa_SETS": {
+        "offset": {
+            "x": -50,
+            "y": 60
+        },
+		"offset2": {
+            "x": -50,
+            "y": 60
+        },
+        "rarity": 5,
+        "type": "CL",
+        "unique": false,
+        "full": "Setsubun Sakawa",
         "name": "Agano"
     },
     "ooyodo1": {
@@ -7784,6 +8249,21 @@
         "full": "Perth Kai",
         "name": "Perth"
     },
+    "perth_VAL": {
+        "offset": {
+            "x": -60,
+            "y": 40
+        },
+		"offset2": {
+            "x": -30,
+            "y": 30
+        },
+        "rarity": 4,
+        "type": "CL",
+        "unique": false,
+        "full": "Valentines Perth",
+        "name": "Perth"
+    },
     "helena": {
         "offset": {
             "x": 100,
@@ -7828,6 +8308,21 @@
         "unique": true,
         "full": "Atlanta",
         "name": "Atlanta"
+    },
+    "sheffield": {
+        "offset": {
+            "x": 0,
+            "y": 50
+        },
+		"offset2": {
+            "x": -20,
+            "y": -50
+        },
+        "rarity": 6,
+        "type": "CL",
+        "unique": true,
+        "full": "Sheffield",
+        "name": "Town"
     },
     "furutaka1": {
         "offset": {
@@ -8007,6 +8502,36 @@
         "type": "CA",
         "unique": false,
         "full": "Christmas Kinugasa Kai Ni",
+        "name": "Aoba"
+    },
+    "kinugasa_NY": {
+        "offset": {
+            "x": 0,
+            "y": 30
+        },
+        "offset2": {
+            "x": 0,
+            "y": -40
+        },
+        "rarity": 4,
+        "type": "CA",
+        "unique": false,
+        "full": "New Year's Kinugasa",
+        "name": "Aoba"
+    },
+    "kinugasa-kaini_NY": {
+        "offset": {
+            "x": 0,
+            "y": 30
+        },
+        "offset2": {
+            "x": 0,
+            "y": -40
+        },
+        "rarity": 6,
+        "type": "CA",
+        "unique": false,
+        "full": "New Year's Kinugasa Kai Ni",
         "name": "Aoba"
     },
     "myoukou1": {
@@ -8731,6 +9256,21 @@
         "full": "Summer Houston Kai",
         "name": "Northampton"
     },
+    "houston_NY": {
+        "offset": {
+            "x": -20,
+            "y": 30
+        },
+        "offset2": {
+            "x": 40,
+            "y": 50
+        },
+        "rarity": 6,
+        "type": "CA",
+        "unique": false,
+        "full": "New Year's Houston",
+        "name": "Northampton"
+    },
     "nagato1": {
         "offset": {
             "x": 75,
@@ -8978,6 +9518,21 @@
         "type": "BB",
         "unique": false,
         "full": "Haregi Hiei Kai Ni",
+        "name": "Kongou"
+    },
+    "hiei-kaini-c_NY": {
+        "offset": {
+            "x": 50,
+            "y": 80
+        },
+		"offset2": {
+            "x": 80,
+            "y": 70
+        },
+        "rarity": 7,
+        "type": "BB",
+        "unique": false,
+        "full": "Haregi Hiei Kai Ni C",
         "name": "Kongou"
     },
     "haruna1": {
@@ -10062,6 +10617,21 @@
         "full": "Summer Richelieu",
         "name": "Richelieu"
     },
+    "richelieu_MONTB": {
+        "offset": {
+            "x": 30,
+            "y": 30
+        },
+        "offset2": {
+            "x": 10,
+            "y": -30
+        },
+        "rarity": 7,
+        "type": "BB",
+        "unique": false,
+        "full": "Mont Blanc Richelieu",
+        "name": "Richelieu"
+    },
     "colorado": {
         "offset": {
             "x": 170,
@@ -10176,6 +10746,36 @@
         "full": "Yukata South Dakota Kai",
         "name": "South_Dakota"
     },
+    "washington": {
+        "offset": {
+            "x": 280,
+            "y": 40
+        },
+        "offset2": {
+            "x": 200,
+            "y": -80
+        },
+        "rarity": 7,
+        "type": "BB",
+        "unique": true,
+        "full": "Washington",
+        "name": "North_Carolina"
+    },
+	"washington-kai": {
+        "offset": {
+            "x": 280,
+            "y": 40
+        },
+        "offset2": {
+            "x": 200,
+            "y": -80
+        },
+        "rarity": 8,
+        "type": "BB",
+        "unique": false,
+        "full": "Washington Kai",
+        "name": "North_Carolina"
+    },
     "houshou1": {
         "offset": {
             "x": -30,
@@ -10204,6 +10804,21 @@
         "type": "CVL",
         "unique": false,
         "full": "New Years Houshou",
+        "name": "Houshou"
+    },
+    "houshou_SETS": {
+        "offset": {
+            "x": 20,
+            "y": 60
+        },
+        "offset2": {
+            "x": 20,
+            "y": 60
+        },
+        "rarity": 3,
+        "type": "CVL",
+        "unique": false,
+        "full": "Setsubun Houshou",
         "name": "Houshou"
     },
     "ryuujou1": {
@@ -10611,6 +11226,66 @@
         "full": "Autumn Ryuuhou",
         "name": "Ryuuhou"
     },
+    "ryuuhou_XMAS": {
+        "offset": {
+            "x": 0,
+            "y": 50
+        },
+        "offset2": {
+            "x": -50,
+            "y": 50
+        },
+        "rarity": 5,
+        "type": "CVL",
+        "unique": false,
+        "full": "Christmas Ryuuhou",
+        "name": "Ryuuhou"
+    },
+    "ryuuhou-kai_XMAS": {
+        "offset": {
+            "x": 0,
+            "y": 50
+        },
+        "offset2": {
+            "x": -50,
+            "y": 50
+        },
+        "rarity": 6,
+        "type": "CVL",
+        "unique": false,
+        "full": "Christmas Ryuuhou Kai",
+        "name": "Ryuuhou"
+    },
+    "ryuuhou_NY": {
+        "offset": {
+            "x": 0,
+            "y": 50
+        },
+        "offset2": {
+            "x": 0,
+            "y": 0
+        },
+        "rarity": 5,
+        "type": "CVL",
+        "unique": false,
+        "full": "New Year's Ryuuhou",
+        "name": "Ryuuhou"
+    },
+    "ryuuhou-kai_NY": {
+        "offset": {
+            "x": 0,
+            "y": 50
+        },
+        "offset2": {
+            "x": 0,
+            "y": 0
+        },
+        "rarity": 6,
+        "type": "CVL",
+        "unique": false,
+        "full": "New Year's Ryuuhou Kai",
+        "name": "Ryuuhou"
+    },
     "suzuyacvl1": {
         "offset": {
             "x": -40,
@@ -10746,6 +11421,21 @@
         "full": "Shinyou Kai Ni",
         "name": "Taiyou"
     },
+    "shinyou_NY": {
+        "offset": {
+            "x": 0,
+            "y": 50
+        },
+		"offset2": {
+            "x": 0,
+            "y": 50
+        },
+        "rarity": 4,
+        "type": "CVL",
+        "unique": false,
+        "full": "New Year's Shinyou",
+        "name": "Taiyou"
+    },
     "gambierbay1": {
         "offset": {
             "x": -50,
@@ -10819,6 +11509,21 @@
         "type": "CVL",
         "unique": false,
         "full": "Rainy Season Gambier Bay",
+        "name": "Casablanca"
+     },
+     "gambierbay_NY": {
+        "offset": {
+            "x": 0,
+            "y": 30
+        },
+        "offset2": {
+            "x": 0,
+            "y": -20
+        },
+        "rarity": 5,
+        "type": "CVL",
+        "unique": false,
+        "full": "New Year's Gambier Bay",
         "name": "Casablanca"
      },
     "akagi1": {
@@ -10969,6 +11674,21 @@
         "type": "CV",
         "unique": false,
         "full": "New Year's Kaga",
+        "name": "Kaga"
+    },
+    "kaga-kaini_NY": {
+        "offset": {
+            "x": -50,
+            "y": 50
+        },
+		"offset2": {
+            "x": -50,
+            "y": 50
+        },
+        "rarity": 8,
+        "type": "CV",
+        "unique": false,
+        "full": "New Year's Kaga Kai Ni",
         "name": "Kaga"
     },
     "souryuu1": {
@@ -11792,6 +12512,51 @@
         "full": "Summer Yonna Kai",
         "name": "Junsen_Type_C"
     },
+    "i47_FEST": {
+        "offset": {
+            "x": -20,
+            "y": 30
+        },
+        "offset2": {
+            "x": 100,
+            "y": 0
+        },
+        "rarity": 5,
+        "type": "SS",
+        "unique": false,
+        "full": "Naval Base Eel Festival Yonna",
+        "name": "Junsen_Type_C"
+    },
+    "i47_XMAS": {
+        "offset": {
+            "x": -10,
+            "y": 40
+        },
+        "offset2": {
+            "x": 0,
+            "y": -40
+        },
+        "rarity": 5,
+        "type": "SS",
+        "unique": false,
+        "full": "Christmas Yonna",
+        "name": "Junsen_Type_C"
+    },
+    "i47_SETS": {
+        "offset": {
+            "x": -50,
+            "y": 40
+        },
+        "offset2": {
+            "x": 0,
+            "y": -10
+        },
+        "rarity": 5,
+        "type": "SS",
+        "unique": false,
+        "full": "Setsubun Yonna",
+        "name": "Junsen_Type_C"
+    },
     "luigitorelli1": {
         "offset": {
             "x": -50,
@@ -12242,6 +13007,21 @@
         "full": "Yukata Akashi",
         "name": "Akashi"
     },
+    "akashi_VAL": {
+        "offset": {
+            "x": -20,
+            "y": 70
+        },
+        "offset2": {
+            "x": 200,
+            "y": -20
+        },
+        "rarity": 7,
+        "type": "AX",
+        "unique": false,
+        "full": "Valentines Akashi",
+        "name": "Akashi"
+    },
     "taigei1": {
         "offset": {
             "x": -75,
@@ -12269,7 +13049,7 @@
         "rarity": 4,
         "type": "AX",
         "unique": false,
-        "full": "New Year's Taigei/Ryuuhou",
+        "full": "New Year's Taigei",
         "name": "Taigei"
     },
     "taigei3": {
@@ -12295,6 +13075,21 @@
         "offset2": {
             "x": -25,
             "y": 30
+        },
+        "rarity": 4,
+        "type": "AX",
+        "unique": false,
+        "full": "Autumn Taigei",
+        "name": "Taigei"
+    },
+    "taigei_XMAS": {
+        "offset": {
+            "x": 0,
+            "y": 50
+        },
+        "offset2": {
+            "x": -50,
+            "y": 50
         },
         "rarity": 4,
         "type": "AX",
@@ -12647,6 +13442,21 @@
         "full": "Zuiun Hayasui",
         "name": "Hayasui"
     },
+    "hayasui_XMAS": {
+        "offset": {
+            "x": 50,
+            "y": 60
+        },
+        "offset2": {
+            "x": -50,
+            "y": -20
+        },
+        "rarity": 7,
+        "type": "AX",
+        "unique": false,
+        "full": "Christmas Hayasui",
+        "name": "Hayasui"
+    },
     "commandantteste1": {
         "offset": {
             "x": 0,
@@ -12990,6 +13800,66 @@
         "type": "AX",
         "unique": false,
         "full": "Yukata Jingei",
+        "name": "Jingei"
+    },
+    "jingei_XMAS": {
+        "offset": {
+            "x": -60,
+            "y": 50
+        },
+        "offset2": {
+            "x": 60,
+            "y": 20
+        },
+        "rarity": 4,
+        "type": "AX",
+        "unique": false,
+        "full": "Christmas jingei",
+        "name": "Jingei"
+    },
+    "jingei-kai_XMAS": {
+        "offset": {
+            "x": -60,
+            "y": 50
+        },
+        "offset2": {
+            "x": 60,
+            "y": 20
+        },
+        "rarity": 5,
+        "type": "AX",
+        "unique": false,
+        "full": "Christmas Jingei Kai",
+        "name": "Jingei"
+    },
+    "jingei_SETS": {
+        "offset": {
+            "x": -30,
+            "y": 60
+        },
+        "offset2": {
+            "x": -30,
+            "y": 60
+        },
+        "rarity": 4,
+        "type": "AX",
+        "unique": false,
+        "full": "Setsubun Jingei",
+        "name": "Jingei"
+    },
+    "jingei_VAL": {
+        "offset": {
+            "x": -10,
+            "y": 50
+        },
+        "offset2": {
+            "x": -30,
+            "y": 0
+        },
+        "rarity": 4,
+        "type": "AX",
+        "unique": false,
+        "full": "Valentines Jingei",
         "name": "Jingei"
     }
 }
