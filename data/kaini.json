@@ -497,6 +497,15 @@
             "prototype": false,
             "actionReport": true,
             "conversion": false
+        },
+        "noshiro-kaini": {
+            "base": "noshiro1",
+            "level": 85,
+            "kai": true,
+            "blueprint": true,
+            "prototype": false,
+            "actionReport": true,
+            "conversion": false
         }
     },
     "CA": {

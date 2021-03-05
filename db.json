@@ -5954,6 +5954,21 @@
         "full": "Summer Maestrale Kai",
         "name": "Maestrale"
     },
+    "maestrale_VAL": {
+        "offset": {
+            "x": 20,
+            "y": 30
+        },
+        "offset2": {
+            "x": 20,
+            "y": 30
+        },
+        "rarity": 6,
+        "type": "DD",
+        "unique": false,
+        "full": "Valentines Maestrale",
+        "name": "Maestrale"
+    },
     "grecale": {
         "offset": {
             "x": -90,
@@ -5986,12 +6001,12 @@
     },
     "grecale_VAL": {
         "offset": {
-            "x": 30,
-            "y": 40
+            "x": 0,
+            "y": 0
         },
         "offset2": {
-            "x": 30,
-            "y": 40
+            "x": 0,
+            "y": 0
         },
         "rarity": 6,
         "type": "DD",
@@ -6104,6 +6119,21 @@
         "full": "Christmas Libeccio",
         "name": "Maestrale"
     },
+    "libeccio_VAL": {
+        "offset": {
+            "x": -30,
+            "y": 30
+        },
+        "offset2": {
+            "x": -30,
+            "y": 30
+        },
+        "rarity": 7,
+        "type": "DD",
+        "unique": false,
+        "full": "Valentines Libeccio",
+        "name": "Maestrale"
+    },
     "scirocco": {
         "offset": {
             "x": 0,
@@ -6117,6 +6147,21 @@
         "type": "DD",
         "unique": true,
         "full": "Scirocco",
+        "name": "Maestrale"
+    },
+    "scirocco_VAL": {
+        "offset": {
+            "x": -60,
+            "y": 30
+        },
+        "offset2": {
+            "x": -60,
+            "y": 30
+        },
+        "rarity": 6,
+        "type": "DD",
+        "unique": false,
+        "full": "Valentines Scirocco",
         "name": "Maestrale"
     },
     "kamikaze1": {
@@ -6567,6 +6612,21 @@
         "type": "DD",
         "unique": false,
         "full": "Spring Bouquet Johnston",
+        "name": "Fletcher"
+    },
+    "johnston_VAL": {
+        "offset": {
+            "x": 0,
+            "y": 40
+        },
+        "offset2": {
+            "x": -20,
+            "y": -30
+        },
+        "rarity": 5,
+        "type": "DD",
+        "unique": false,
+        "full": "Valentines Johnston",
         "name": "Fletcher"
     },
     "tenryuu1": {
@@ -7514,6 +7574,21 @@
         "full": "Noshiro",
         "name": "Agano"
     },
+    "noshiro-kaini": {
+        "offset": {
+            "x": 150,
+            "y": 10
+        },
+        "offset2": {
+            "x": 0,
+            "y": 0
+        },
+        "rarity": 7,
+        "type": "CL",
+        "unique": false,
+        "full": "Noshiro Kai Ni",
+        "name": "Agano"
+    },
     "yahagi1": {
         "offset": {
             "x": 70,
@@ -8082,6 +8157,21 @@
         "type": "CL",
         "unique": false,
         "full": "Perth Kai",
+        "name": "Perth"
+    },
+    "perth_VAL": {
+        "offset": {
+            "x": -60,
+            "y": 40
+        },
+		"offset2": {
+            "x": -30,
+            "y": 30
+        },
+        "rarity": 4,
+        "type": "CL",
+        "unique": false,
+        "full": "Valentines Perth",
         "name": "Perth"
     },
     "helena": {
@@ -12827,6 +12917,21 @@
         "full": "Yukata Akashi",
         "name": "Akashi"
     },
+    "akashi_VAL": {
+        "offset": {
+            "x": -20,
+            "y": 70
+        },
+        "offset2": {
+            "x": 200,
+            "y": -20
+        },
+        "rarity": 7,
+        "type": "AX",
+        "unique": false,
+        "full": "Valentines Akashi",
+        "name": "Akashi"
+    },
     "taigei1": {
         "offset": {
             "x": -75,
@@ -13650,6 +13755,21 @@
         "type": "AX",
         "unique": false,
         "full": "Setsubun Jingei",
+        "name": "Jingei"
+    },
+    "jingei_VAL": {
+        "offset": {
+            "x": -10,
+            "y": 50
+        },
+        "offset2": {
+            "x": -30,
+            "y": 0
+        },
+        "rarity": 4,
+        "type": "AX",
+        "unique": false,
+        "full": "Valentines Jingei",
         "name": "Jingei"
     }
 }
