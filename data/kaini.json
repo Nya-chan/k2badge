@@ -507,6 +507,15 @@
             "actionReport": true,
             "conversion": false
         },
+        "yahagi-kaini": {
+            "base": "yahagi1",
+            "level": 88,
+            "kai": true,
+            "blueprint": true,
+            "prototype": false,
+            "actionReport": true,
+            "conversion": true
+        },
         "noshiro-kaini": {
             "base": "noshiro1",
             "level": 85,
@@ -625,6 +634,15 @@
             "prototype": false,
             "actionReport": false,
             "conversion": false
+        },
+        "mogami-kaini": {
+            "base": "mogami1",
+            "level": 80,
+            "kai": true,
+            "blueprint": true,
+            "prototype": false,
+            "actionReport": false,
+            "conversion": true
         },
         "suzuya4": {
             "base": "suzuya1",

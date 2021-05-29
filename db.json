@@ -1484,6 +1484,21 @@
         "full": "Spring Bouquet Akebono Kai",
         "name": "Ayanami"
     },
+    "akebono-kaini_SPNG": {
+        "offset": {
+            "x": 0,
+            "y": -100
+        },
+		"offset2": {
+            "x": -80,
+            "y": -100
+        },
+        "rarity": 7,
+        "type": "DD",
+        "unique": false,
+        "full": "Spring Akebono Kai Ni",
+        "name": "Ayanami"
+    },
     "akebono_CELE": {
         "offset": {
             "x": -50,
@@ -5021,7 +5036,7 @@
         "rarity": 7,
         "type": "DD",
         "unique": false,
-        "full": "Kazagumo",
+        "full": "Kazagumo Kai Ni",
         "name": "Yuugumo"
     },
     "kazagumo2": {
@@ -5097,6 +5112,21 @@
         "type": "DD",
         "unique": false,
         "full": "Summer Kazagumo Kai Ni",
+        "name": "Yuugumo"
+    },
+    "kazagumo-kaini_SPNG": {
+        "offset": {
+            "x": -45,
+            "y": -20
+        },
+        "offset2": {
+            "x": -20,
+            "y": -45
+        },
+        "rarity": 7,
+        "type": "DD",
+        "unique": false,
+        "full": "Spring Kazagumo Kai Ni",
         "name": "Yuugumo"
     },
     "naganami1": {
@@ -5532,6 +5562,21 @@
         "type": "DD",
         "unique": false,
         "full": "Summer Okinami Kai Ni",
+        "name": "Yuugumo"
+    },
+    "okinami-kaini_SPNG": {
+        "offset": {
+            "x": 0,
+            "y": 0
+        },
+        "offset2": {
+            "x": 30,
+            "y": 10
+        },
+        "rarity": 7,
+        "type": "DD",
+        "unique": false,
+        "full": "Spring Okinami Kai Ni",
         "name": "Yuugumo"
     },
     "kishinami": {
@@ -7694,6 +7739,36 @@
         "full": "Yahagi",
         "name": "Agano"
     },
+    "yahagi-kaini": {
+        "offset": {
+            "x": 200,
+            "y": 0
+        },
+        "offset2": {
+            "x": 130,
+            "y": 30
+        },
+        "rarity": 8,
+        "type": "CL",
+        "unique": false,
+        "full": "Yahagi Kai Ni",
+        "name": "Agano"
+    },
+    "yahagi-kaini-b": {
+        "offset": {
+            "x": 200,
+            "y": 0
+        },
+        "offset2": {
+            "x": 130,
+            "y": 30
+        },
+        "rarity": 8,
+        "type": "CL",
+        "unique": false,
+        "full": "Yahagi Kai Ni B",
+        "name": "Agano"
+    },
     "sakawa1": {
         "offset": {
             "x": 0,
@@ -8294,6 +8369,21 @@
         "full": "Helena Kai",
         "name": "St_Louis"
     },
+    "helena_SPNG": {
+        "offset": {
+            "x": 50,
+            "y": 40
+        },
+		"offset2": {
+            "x": 150,
+            "y": 40
+        },
+        "rarity": 5,
+        "type": "CL",
+        "unique": false,
+        "full": "Spring Helena",
+        "name": "St_Louis"
+    },
     "atlanta": {
         "offset": {
             "x": 0,
@@ -8862,6 +8952,36 @@
         "type": "CA",
         "unique": false,
         "full": "Mogami Kai",
+        "name": "Mogami"
+    },
+    "mogami-kaini": {
+        "offset": {
+            "x": 0,
+            "y": -10
+        },
+		"offset2": {
+            "x": 350,
+            "y": -110
+        },
+        "rarity": 7,
+        "type": "CA",
+        "unique": false,
+        "full": "Mogami Kai Ni",
+        "name": "Mogami"
+    },
+    "mogami-kaini-toku": {
+        "offset": {
+            "x": 0,
+            "y": -10
+        },
+		"offset2": {
+            "x": 350,
+            "y": -110
+        },
+        "rarity": 8,
+        "type": "CA",
+        "unique": false,
+        "full": "Mogami Kai Ni Toku",
         "name": "Mogami"
     },
     "mogami3": {
@@ -13860,6 +13980,36 @@
         "type": "AX",
         "unique": false,
         "full": "Valentines Jingei",
+        "name": "Jingei"
+    },
+    "jingei_SPNG": {
+        "offset": {
+            "x": 0,
+            "y": 40
+        },
+        "offset2": {
+            "x": 0,
+            "y": -40
+        },
+        "rarity": 4,
+        "type": "AX",
+        "unique": false,
+        "full": "Spring jingei",
+        "name": "Jingei"
+    },
+    "jingei-kai_SPNG": {
+        "offset": {
+            "x": 0,
+            "y": 40
+        },
+        "offset2": {
+            "x": 0,
+            "y": -40
+        },
+        "rarity": 5,
+        "type": "AX",
+        "unique": false,
+        "full": "Spring Jingei Kai",
         "name": "Jingei"
     }
 }

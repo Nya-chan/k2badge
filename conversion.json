@@ -660,6 +660,20 @@
         "akebono-kaini": [
             "akebono1",
             "akebono9"
+        ],
+        "mogami-kaini": [
+            "mogami1"
+        ],
+        "mogami-kaini-toku": [
+            "mogami1",
+            "mogami-kaini"
+        ],
+        "yahagi-kaini": [
+            "yahagi1"
+        ],
+        "yahagi-kaini-b": [
+            "yahagi1",
+            "yahagi-kaini"
         ]
     },
     "mstId2FleetIdTable": {
@@ -1143,8 +1157,10 @@
         "498": "murasame3",
         "499": "kamoi2",
         "500": "kamoi3",
+        "501": "mogami-kaini",
         "503": "suzuya4",
         "504": "kumano4",
+        "506": "mogami-kaini-toku",
         "508": "suzuyacvl1",
         "509": "kumanocvl1",
         "511": "gangut1",
@@ -1275,7 +1291,9 @@
         "658": "scirocco",
         "659": "washington-kai",
         "662": "noshiro-kaini",
+        "663": "yahagi-kani",
         "665": "akebono-kaini",
+        "668": "yahagi-kaini-b",
         "678": "hiburi1",
         "679": "daitou1",
         "680": "hamanami1",
