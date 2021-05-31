@@ -13457,6 +13457,21 @@
         "full": "Autumn Taigei",
         "name": "Taigei"
     },
+    "taigei_Special": {
+        "offset": {
+            "x": -60,
+            "y": 20
+        },
+        "offset2": {
+            "x": -60,
+            "y": 20
+        },
+        "rarity": 4,
+        "type": "AX",
+        "unique": false,
+        "full": "Taigei - Special Attack Mode",
+        "name": "Taigei"
+    },
     "akitsushima1": {
         "offset": {
             "x": 50,
@@ -14250,6 +14265,38 @@
         "type": "AX",
         "unique": false,
         "full": "Spring Jingei Kai",
+        "name": "Jingei"
+    },
+    "jingei_Special": {
+        "offset": {
+            "x": -60,
+            "y": 40
+        },
+        "offset2": {
+            "x": 0,
+            "y": 0
+        },
+        "rarity": 4,
+        "type": "AX",
+        "unique": false,
+        "damageable": false,
+        "full": "Jingei - Special Attack Mode",
+        "name": "Jingei"
+    },
+    "jingei-kai_Special": {
+        "offset": {
+            "x": -60,
+            "y": 40
+        },
+        "offset2": {
+            "x": 0,
+            "y": 0
+        },
+        "rarity": 5,
+        "type": "AX",
+        "unique": false,
+        "damageable": false,
+        "full": "Jingei Kai - Special Attack Mode",
         "name": "Jingei"
     }
 }
