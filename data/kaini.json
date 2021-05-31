@@ -873,6 +873,15 @@
             "actionReport": false,
             "conversion": false
         },
+        "ryuuhou-kaini-e": {
+            "base": "taigei2",
+            "level": 80,
+            "kai": true,
+            "blueprint": true,
+            "prototype": true,
+            "actionReport": false,
+            "conversion": false
+        },
         "suzuyacvl1": {
             "base": "suzuya4",
             "level": 88,

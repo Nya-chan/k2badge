@@ -1289,6 +1289,21 @@
         "full": "Setsubun Oboro",
         "name": "Ayanami"
     },
+    "oboro_8TH": {
+        "offset": {
+            "x": 0,
+            "y": 40
+        },
+        "offset2": {
+            "x": 0,
+            "y": 40
+        },
+        "rarity": 1,
+        "type": "DD",
+        "unique": false,
+        "full": "8th Anniversary Oboro",
+        "name": "Ayanami"
+    },
     "akebono1": {
         "offset": {
             "x": 20,
@@ -1514,6 +1529,36 @@
         "full": "Celebration Akebono",
         "name": "Ayanami"
     },
+    "akebono_8TH": {
+        "offset": {
+            "x": -50,
+            "y": 40
+        },
+		"offset2": {
+            "x": -50,
+            "y": 40
+        },
+        "rarity": 1,
+        "type": "DD",
+        "unique": false,
+        "full": "8th Anniversary Akebono",
+        "name": "Ayanami"
+    },
+    "akebono-kaini_8TH": {
+        "offset": {
+            "x": -50,
+            "y": 40
+        },
+		"offset2": {
+            "x": -50,
+            "y": 40
+        },
+        "rarity": 7,
+        "type": "DD",
+        "unique": false,
+        "full": "8th Anniversary Akebono Kai Ni",
+        "name": "Ayanami"
+    },
     "sazanami1": {
         "offset": {
             "x": 20,
@@ -1662,6 +1707,21 @@
         "type": "DD",
         "unique": false,
         "full": "Celebration Sazanami",
+        "name": "Ayanami"
+    },
+    "sazanami_8TH": {
+        "offset": {
+            "x": -20,
+            "y": 0
+        },
+		"offset2": {
+            "x": -20,
+            "y": 0
+        },
+        "rarity": 2,
+        "type": "DD",
+        "unique": false,
+        "full": "8th Anniversary Sazanami",
         "name": "Ayanami"
     },
     "ushio1": {
@@ -1887,6 +1947,36 @@
         "type": "DD",
         "unique": false,
         "full": "Christmas Ushio Kai Ni",
+        "name": "Ayanami"
+    },
+    "ushio_8TH": {
+        "offset": {
+            "x": -20,
+            "y": 50
+        },
+        "offset2": {
+            "x": -20,
+            "y": 50
+        },
+        "rarity": 4,
+        "type": "DD",
+        "unique": false,
+        "full": "8th Anniversary Ushio",
+        "name": "Ayanami"
+    },
+    "ushio-kaini_8TH": {
+        "offset": {
+            "x": -20,
+            "y": 50
+        },
+        "offset2": {
+            "x": -20,
+            "y": 50
+        },
+        "rarity": 6,
+        "type": "DD",
+        "unique": false,
+        "full": "8th Anniversary Ushio Kai Ni",
         "name": "Ayanami"
     },
     "sagiri1": {
@@ -10866,6 +10956,21 @@
         "full": "Yukata South Dakota Kai",
         "name": "South_Dakota"
     },
+    "southdakota_8TH": {
+        "offset": {
+            "x": 0,
+            "y": 70
+        },
+        "offset2": {
+            "x": -70,
+            "y": 60
+        },
+        "rarity": 7,
+        "type": "BB",
+        "unique": false,
+        "full": "8th Anniversary South Dakota",
+        "name": "South_Dakota"
+    },
     "washington": {
         "offset": {
             "x": 280,
@@ -11314,6 +11419,36 @@
         "type": "CVL",
         "unique": false,
         "full": "Ryuuhou Kai",
+        "name": "Ryuuhou"
+    },
+    "ryuuhou-kaini": {
+        "offset": {
+            "x": 20,
+            "y": 40
+        },
+        "offset2": {
+            "x": 20,
+            "y": 40
+        },
+        "rarity": 7,
+        "type": "CVL",
+        "unique": false,
+        "full": "Ryuuhou Kai Ni",
+        "name": "Ryuuhou"
+    },
+    "ryuuhou-kaini-e": {
+        "offset": {
+            "x": 20,
+            "y": 40
+        },
+        "offset2": {
+            "x": 20,
+            "y": 40
+        },
+        "rarity": 8,
+        "type": "CVL",
+        "unique": false,
+        "full": "Ryuuhou Kai Ni E",
         "name": "Ryuuhou"
     },
     "ryuuhou3": {
@@ -12675,6 +12810,21 @@
         "type": "SS",
         "unique": false,
         "full": "Setsubun Yonna",
+        "name": "Junsen_Type_C"
+    },
+    "i47_8TH": {
+        "offset": {
+            "x": 30,
+            "y": 40
+        },
+        "offset2": {
+            "x": 0,
+            "y": -20
+        },
+        "rarity": 5,
+        "type": "SS",
+        "unique": false,
+        "full": "8th Anniversary Yonna",
         "name": "Junsen_Type_C"
     },
     "luigitorelli1": {

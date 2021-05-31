@@ -96,6 +96,15 @@
         "ryuuhou2": [
             "taigei"
         ],
+        "ryuuhou-kaini-e": [
+            "taigei",
+            "ryuuhou2"
+        ],
+        "ryuuhou-kaini": [
+            "taigei",
+            "ryuuhou2",
+            "ryuuhou-kaini-e"
+        ],
         "myoukou2": [
             "myoukou1"
         ],
@@ -1319,6 +1328,8 @@
         "704": "hornet",
         "705": "sheffield",
         "706": "take",
+        "883": "ryuuhou-kaini-e",
+        "888": "ryuuhou-kaini",
         "893": "janus",
         "1496": "colorado-kai"
     },
