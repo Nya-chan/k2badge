@@ -683,6 +683,12 @@
         "yahagi-kaini-b": [
             "yahagi1",
             "yahagi-kaini"
+        ],
+        "i203-kai": [
+            "i203"
+        ],
+        "northampton-kai": [
+            "northampton"
         ]
     },
     "mstId2FleetIdTable": {
@@ -1289,20 +1295,24 @@
         "639": "jingei-kai",
         "641": "matsu",
         "642": "take",
+        "644": "momo",
         "646": "kaga-kaini-go",
         "648": "akigumo-kaini",
         "651": "danyang",
         "652": "kuma-kaini",
         "653": "scirocco",
         "654": "washington",
+        "655": "northampton",
         "656": "yukikaze-kaini",
         "657": "kuma-kaini-d",
         "658": "scirocco",
         "659": "washington-kai",
+        "660": "northampton-kai",
         "662": "noshiro-kaini",
         "663": "yahagi-kani",
         "665": "akebono-kaini",
         "668": "yahagi-kaini-b",
+        "671": "makinami",
         "678": "hiburi1",
         "679": "daitou1",
         "680": "hamanami1",
@@ -1328,7 +1338,11 @@
         "704": "hornet",
         "705": "sheffield",
         "706": "take",
+        "708": "momo",
+        "709": "makinami",
+        "882": "i203",
         "883": "ryuuhou-kaini-e",
+        "887": "i203-kai",
         "888": "ryuuhou-kaini",
         "893": "janus",
         "1496": "colorado-kai"

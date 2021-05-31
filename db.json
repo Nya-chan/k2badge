@@ -5339,6 +5339,21 @@
         "full": "Spring 2018 Naganami Kai Ni",
         "name": "Yuugumo"
     },
+    "makinami": {
+        "offset": {
+            "x": -80,
+            "y": 30
+        },
+		"offset2": {
+            "x": 100,
+            "y": 20
+        },
+        "rarity": 4,
+        "type": "DD",
+        "unique": true,
+        "full": "Makinami",
+        "name": "Yuugumo"
+    },
     "hayashimo1": {
         "offset": {
             "x": 0,
@@ -6492,6 +6507,21 @@
         "type": "DD",
         "unique": true,
         "full": "Take",
+        "name": "Matsu"
+    },
+    "momo": {
+        "offset": {
+            "x": 30,
+            "y": -120
+        },
+        "offset2": {
+            "x": 0,
+            "y": -50
+        },
+        "rarity": 5,
+        "type": "DD",
+        "unique": true,
+        "full": "Momo",
         "name": "Matsu"
     },
     "jervis1": {
@@ -9405,6 +9435,36 @@
         "unique": false,
         "full": "Shopping Pola",
         "name": "Zara"
+    },
+    "northampton": {
+        "offset": {
+            "x": 50,
+            "y": 60
+        },
+        "offset2": {
+            "x": 150,
+            "y": 30
+        },
+        "rarity": 7,
+        "type": "CA",
+        "unique": true,
+        "full": "Northampton",
+        "name": "Northampton"
+    },
+	"northampton-kai": {
+        "offset": {
+            "x": 50,
+            "y": 60
+        },
+        "offset2": {
+            "x": 150,
+            "y": 30
+        },
+        "rarity": 8,
+        "type": "CA",
+        "unique": false,
+        "full": "Northampton Kai",
+        "name": "Northampton"
     },
     "houston": {
         "offset": {
@@ -12827,6 +12887,36 @@
         "full": "8th Anniversary Yonna",
         "name": "Junsen_Type_C"
     },
+    "i203": {
+        "offset": {
+            "x": 0,
+            "y": 20
+        },
+        "offset2": {
+            "x": 100,
+            "y": 20
+        },
+        "rarity": 6,
+        "type": "SS",
+        "unique": true,
+        "full": "Fuumi",
+        "name": "Sentaka"
+    },
+    "i203-kai": {
+        "offset": {
+            "x": 50,
+            "y": 20
+        },
+        "offset2": {
+            "x": 100,
+            "y": 20
+        },
+        "rarity": 7,
+        "type": "SS",
+        "unique": false,
+        "full": "Fuumi Kai",
+        "name": "Sentaka"
+    },
     "luigitorelli1": {
         "offset": {
             "x": -50,
@@ -12840,7 +12930,7 @@
         "type": "SS",
         "unique": true,
         "full": "Luigi Torelli",
-        "name": "Guglielmo Marconi"
+        "name": "Guglielmo_Marconi"
     },
     "uit251": {
         "offset": {
