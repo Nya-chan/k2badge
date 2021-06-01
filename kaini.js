@@ -1127,7 +1127,7 @@ $(document).ready(function() {
         var startPositionSS = (numCV + 3) * hexRectangleWidth;
         var numSS = 0;
         var maxSS = $("#ss").find("[type='checkbox']:checked").length;
-        var ssRow = 190;
+        var ssRow = 175;
         var ssRowbox = ssRow + 15;
         var blue = 0;
         line = line - linebarwidth;
