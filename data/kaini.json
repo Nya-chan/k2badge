@@ -1076,6 +1076,15 @@
             "prototype": false,
             "actionReport": false,
             "conversion": false
+        },
+        "souya-agb": {
+            "base": "souya-ags",
+            "level": 60,
+            "kai": false,
+            "blueprint": false,
+            "prototype": false,
+            "actionReport": false,
+            "conversion": false
         }
     }
 }

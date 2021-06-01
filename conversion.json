@@ -689,6 +689,13 @@
         ],
         "northampton-kai": [
             "northampton"
+        ],
+        "souya-agl": [
+            "souya-ags"
+        ],
+        "souya-agb": [
+            "souya-ags",
+            "souya-agl"
         ]
     },
     "mstId2FleetIdTable": {
@@ -1256,6 +1263,7 @@
         "595": "houston",
         "596": "fletcher",
         "597": "atlanta",
+        "598": "honolulu",
         "599": "akagi-kaini-e",
         "600": "houston-kai",
         "601": "colorado",
@@ -1296,8 +1304,10 @@
         "641": "matsu",
         "642": "take",
         "644": "momo",
+        "645": "souya-agl",
         "646": "kaga-kaini-go",
         "648": "akigumo-kaini",
+        "650": "souya-agb",
         "651": "danyang",
         "652": "kuma-kaini",
         "653": "scirocco",
@@ -1313,6 +1323,7 @@
         "665": "akebono-kaini",
         "668": "yahagi-kaini-b",
         "671": "makinami",
+        "675": "suzunami",
         "678": "hiburi1",
         "679": "daitou1",
         "680": "hamanami1",
@@ -1331,6 +1342,7 @@
         "696": "atlanta",
         "697": "southdakota-kai",
         "698": "kaga-kaini",
+        "699": "souya-ags",
         "700": "usugumo",
         "701": "kaiboukan4",
         "702": "matsu",
@@ -1340,6 +1352,8 @@
         "706": "take",
         "708": "momo",
         "709": "makinami",
+        "710": "suzunami",
+        "711": "honolulu",
         "882": "i203",
         "883": "ryuuhou-kaini-e",
         "887": "i203-kai",

@@ -5489,6 +5489,21 @@
         "full": "Valentines Takanami",
         "name": "Yuugumo"
     },
+    "suzunami": {
+        "offset": {
+            "x": -70,
+            "y": 10
+        },
+        "offset2": {
+            "x": -40,
+            "y": -60
+        },
+        "rarity": 4,
+        "type": "DD",
+        "unique": true,
+        "full": "Suzunami",
+        "name": "Yuugumo"
+    },
     "asashimo1": {
         "offset": {
             "x": 10,
@@ -8518,6 +8533,21 @@
         "unique": true,
         "full": "Atlanta",
         "name": "Atlanta"
+    },
+    "honolulu": {
+        "offset": {
+            "x": 80,
+            "y": 40
+        },
+		"offset2": {
+            "x": 50,
+            "y": 40
+        },
+        "rarity": 5,
+        "type": "CL",
+        "unique": true,
+        "full": "Honolulu",
+        "name": "Honolulu"
     },
     "sheffield": {
         "offset": {
@@ -14298,6 +14328,66 @@
         "damageable": false,
         "full": "Jingei Kai - Special Attack Mode",
         "name": "Jingei"
+    },
+    "jingei": {
+        "offset": {
+            "x": 0,
+            "y": 60
+        },
+        "offset2": {
+            "x": 130,
+            "y": -30
+        },
+        "rarity": 4,
+        "type": "AX",
+        "unique": true,
+        "full": "jingei",
+        "name": "Jingei"
+    },
+    "souya-ags": {
+        "offset": {
+            "x": 30,
+            "y": 40
+        },
+        "offset2": {
+            "x": -20,
+            "y": 40
+        },
+        "rarity": 5,
+        "type": "AX",
+        "unique": true,
+        "full": "Souya (AGS)",
+        "name": "Souya"
+    },
+    "souya-agl": {
+        "offset": {
+            "x": 30,
+            "y": 40
+        },
+        "offset2": {
+            "x": -20,
+            "y": 40
+        },
+        "rarity": 6,
+        "type": "AX",
+        "unique": false,
+        "full": "Souya (AGL)",
+        "name": "Souya"
+    },
+    "souya-agb": {
+        "offset": {
+            "x": 30,
+            "y": 40
+        },
+        "offset2": {
+            "x": -20,
+            "y": 40
+        },
+        "rarity": 7,
+        "type": "AX",
+        "unique": false,
+        "full": "Souya (AGB)",
+        "name": "Souya"
     }
 }
  
